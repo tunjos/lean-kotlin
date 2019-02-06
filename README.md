@@ -13,8 +13,6 @@ Kotlin
 - [Kotlin Reference](https://kotlinlang.org/docs/reference/)
 - [Kotlin Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
 - [Kotlin Blog](https://blog.jetbrains.com/kotlin/)
-
-
 - [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/index.html)
 - [Kotlin Standard Library - All Types](https://kotlinlang.org/api/latest/jvm/stdlib/alltypes/index.html)
 
@@ -48,10 +46,12 @@ Kotlin Experts
 - [Jake Wharton](https://jakewharton.com/)
 - [Andrey Breslav](http://abreslav.com/)
 
+Others
+---
 - [Kotlin (programming language)
  Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
-- [Kotlin Slack](http://slack.kotlinlang.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Kotlin Slack](http://slack.kotlinlang.org/)
 
 Android
 ---
