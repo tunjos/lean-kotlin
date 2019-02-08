@@ -49,6 +49,11 @@ Kotlin Experts
 - [Jake Wharton](https://jakewharton.com/)
 - [Andrey Breslav](http://abreslav.com/)
 
+Events
+---
+- [KotlinConf](https://kotlinconf.com/)
+- [Conference for Kotliners](https://www.conferenceforkotliners.com/)
+
 Others
 ---
 - [Kotlin (programming language)
