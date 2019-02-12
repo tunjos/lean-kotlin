@@ -22,6 +22,7 @@ Release Notes
 - [What's New in Kotlin 1.3](https://kotlinlang.org/docs/reference/whatsnew13.html)
 - [What's New in Kotlin 1.2](https://kotlinlang.org/docs/reference/whatsnew12.html)
 - [What's New in Kotlin 1.1](https://kotlinlang.org/docs/reference/whatsnew11.html)
+- [What's New in IntelliJ IDEA](https://www.jetbrains.com/idea/whatsnew/)
 - [IntelliJ IDEA Releases - Jetbrains Blog](https://blog.jetbrains.com/idea/category/releases/)
 
 
